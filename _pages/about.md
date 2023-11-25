@@ -9,11 +9,11 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of Economics</p>
+    <!--<p>Department of Economics</p>
     <p>MSC 1208‐228‐308</p>
     <p>Washington University in St. Louis</p>
     <p>One Brookings Drive</p>
-    <p>St. Louis, MO 63130-4899</p>
+    <p>St. Louis, MO 63130-4899</p>-->
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
