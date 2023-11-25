@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='https://economics.wustl.edu/people/shih-wen-liu'>Washington University in St. Louis</a>.
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
