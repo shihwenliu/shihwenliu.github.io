@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://economics.wustl.edu/people/shih-wen-liu'>Washington University in St. Louis</a>.
+subtitle:
 
 profile:
   align: left
