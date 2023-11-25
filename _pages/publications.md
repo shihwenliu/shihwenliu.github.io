@@ -7,8 +7,8 @@ nav: true
 nav_order: 3
 ---
 
-<!--<div class="publications">
+<!--<div class="publications">-->
 
-{% bibliography -f {{ site.scholar.bibliography }} %}
+<!-- {% bibliography -f {{ site.scholar.bibliography }} %} -->
 
-</div>-->
+<!--</div>-->
