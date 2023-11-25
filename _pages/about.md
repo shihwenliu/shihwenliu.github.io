@@ -25,7 +25,7 @@ social: false  # includes social icons at the bottom of the page
 
 
 Hi! I am a Ph.D. candidate in Economics at <a href='https://wustl.edu/'>Washington University in St. Louis</a>.
-My research focuses in Behavioral/Experimental Economics and Microeconomic Theory. 
+My research interests lie in Experimental Economics, Behavioral Economics, and Microeconomic Theory. 
 
 I am supported by <a href='https://mcdonnell.wustl.edu/'>McDonnell International Scholars Academy</a> and <a href='https://english.moe.gov.tw/mp-1.html'>Ministry of Education in Taiwan</a>.
 Previously, I completed my B.A. in Economics with a minor in Mathematics at <a href='https://www.ntu.edu.tw/english/'>National Taiwan University</a>.
