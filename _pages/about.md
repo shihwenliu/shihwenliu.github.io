@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-  subtitle: <a href='https://economics.wustl.edu/people/shih-wen-liu'>University Profile</a>.
+  subtitle: 
 
     <!--<p>Department of Economics</p>
     <p>MSC 1208‐228‐308</p>
