@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 4
 ---
-<h3>Teaching Assistant -- Washington University in St. Louis</h3>
+<h4>Teaching Assistant -- Washington University in St. Louis</h4>
 <ul>
   <li>Industrial Economics, Fall 2022</li>
   <li>Behavioral and Experimental Economics, Fall 2021</li>
